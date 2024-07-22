@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-color: #1f2937;
+}
+
+.header__nav__link {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+#title {
+  font-size: 24px;
+  color: #f9faf8;
+}
+
+.content__hero {
+  background-color: #1f2937;
+}
+
+.content__hero__title {
+  font-size: 48px;
+  color: #f9faf8;
+}
+
+.content__hero__title--text {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.content__hero__button {
+  background-color: #3882f6;
+}
+
+.content__boxes__title {
+  font-size: 36px;
+  color: #1f2937;
+}
+
+.content__quote {
+  background-color: #e5e7eb;
+}
+
+.content__quote__text {
+  color: #1f2937;
+  font-size: 36px;
+}
+
+.content__calltoaction__container {
+  background-color: #3882f6;
+}
+
+.footer {
+  background-color: #1f2937;
+}
